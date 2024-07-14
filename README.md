@@ -14,7 +14,7 @@ Comparing their graph with mine:
 
 The highest mobility trend is Parks followed by Grocery and Pharmacy.  
 
-In the Ph Mobility Report[^3], the highest mobility trend is the Grocery & pharmacy with an 80% value higher than baseline. This result agrees with Sheehy's visualization. It seems I have not transformed the original data. This is a point of improvement for me and for future work.
+In the Ph Mobility Report[^3], the highest mobility trend is the Grocery & pharmacy with an 80% value higher than baseline. This result agrees with Sheehy's visualization. It turns out I have not transformed the original data. This is a point of improvement for me and for future work. 
 
 ## Contents
 ```
