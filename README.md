@@ -4,6 +4,12 @@ A visualization of Google Mobility Data[^1] for Ph 2021-2022
 ## Description
 This project was initially for a presentation. I tried replicating what Hugh Sheehy[^2] did for their Looker Dashboard, but it was not an exact replica due the the difference in y-axis values. In my visualization, I used the `percent change` while Sheehy used something else.
 
+Here is the original visualization by Sheehy:
+![sheehy's version.png](https://github.com/Altan-X/mobility-data/blob/main/docs/sheehy's%20version.png)
+
+This is the one I made:
+![mobility data percent change.png](https://github.com/Altan-X/mobility-data/blob/main/docs/mobility%20data%20percent%20change.png)
+
 ## Contents
 ```
 mobility-data/
